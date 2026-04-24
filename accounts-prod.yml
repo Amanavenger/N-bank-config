@@ -7,7 +7,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "This Is Demo Message for ConfigurationProperties (Prod env), RabbitMq(WEBHOOK) FIXED NGROK."
+  message: "This Is Demo Message for ConfigurationProperties (Prod env), RabbitMq(WEBHOOK) FIXED NGROK.>"
   contactDetails:
     name: "prod-Developer"
     email: "demoaccount@mail.com"
