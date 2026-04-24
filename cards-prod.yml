@@ -5,4 +5,4 @@ cards:
   contact:
     name: "prod"
     email: "prod-cards@prod.com"
-  message: "This is Cards service using PROD env, RabbitMQ(WEBHOOK)"
+  message: "This is Cards service using PROD env, RabbitMQ(WEBHOOK), docker compose"
