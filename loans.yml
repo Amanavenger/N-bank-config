@@ -23,4 +23,4 @@ loans:
   contact:
     name: "dev"
     email: "dev-loans@dev.com"
-  message: "This is Loans service using dev env"
+  message: "This is Loans service using dev env(Deefault)."
