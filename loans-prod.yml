@@ -5,4 +5,4 @@ loans:
   contact:
     name: "prod"
     email: "prod-laons@prod.com"
-  message: "This is Loans service using PROD env, RabbitMq (WEBHOOK)"
+  message: "This is Loans service using PROD env, RabbitMq (WEBHOOK)."
