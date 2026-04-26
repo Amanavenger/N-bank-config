@@ -8,11 +8,14 @@ spring:
     url: jdbc:mysql://localhost:3307/loansdb
     username: root
     password: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
     hibernate:
       ddl-auto: update
     show-sql: true
-
+  sql:
+    init:
+      mode: always
 
 build:
   version: 1.1
