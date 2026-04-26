@@ -1,12 +1,14 @@
 server:
   port: 8090
+  
 spring:
+  application:
+    name: "loans"
   datasource:
     url: jdbc:mysql://localhost:3307/loansdb
     username: root
     password: root
   jpa:
-    database-platform: org.hibernate.dialect.H2Dialect
     hibernate:
       ddl-auto: update
     show-sql: true
